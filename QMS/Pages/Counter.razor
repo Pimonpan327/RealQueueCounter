@@ -1,0 +1,15 @@
+﻿@page "/counter"
+@inject IJSRuntime jsRuntime
+
+<button class="btn btn-primary" @onclick="PrintReceipt">พิมพ์ใบเสร็จ</button>
+
+<h1>test</h1>
+
+@code {
+    private async Task PrintReceipt()
+    {
+        Console.WriteLine("5");
+        string receiptData = "นี่คือใบเสร็จ\nHello";
+        await jsRuntime.InvokeVoidAsync("printPdf", receiptData);
+    }
+}
