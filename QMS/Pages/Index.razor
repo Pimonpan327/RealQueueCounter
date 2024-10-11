@@ -6,7 +6,7 @@
 
 
 
-<div class="text-center border p-2 custom-border" style="margin: auto; max-width: 90%; width: 550px;">
+<div class="text-center border p-2 custom-border text-color" style="margin: auto; max-width: 90%; width: 550px;">
     <h1>เลือกรายการธุรกรรม</h1>
 </div>
 
@@ -14,7 +14,7 @@
     <button class="button-rounded shadow p-4 mb-5" @onclick='() => BookQueue("F")'>เปิด-ปิดบัญชี ฝากถอน</button>
     <button class="button-rounded shadow p-4 mb-5" @onclick='() => BookQueue("L")'>ขอกู้ รับชำระหนี้ จ่ายเงินกู้</button>
     <button class="button-rounded shadow p-4 mb-5" @onclick='() => BookQueue("S")'>สมัครสมาชิก-ลาออก ซื้อ-ถอนหุ้น</button>
-    <button class="button-rounded shadow p-4 mb-5" @onclick='() => BookQueue("D")'>อื่นๆ</button>
+    <button class="button-rounded shadow p-4 mb-5" @onclick='() => BookQueue("H")'>อื่นๆ</button>
 </div>
 
 @if (!string.IsNullOrEmpty(ErrorMessage))

@@ -3,7 +3,7 @@
 .custom-border[b-o1f6pmm03b] {
     position: relative;
     padding: 20px;
-    background-color: #f1ede2;
+    background-color: #072f4f;
 }
     .custom-border[b-o1f6pmm03b]::before {
         content: "";
@@ -13,7 +13,7 @@
         right: -10px;
         bottom: -10px;
         border: 5px solid transparent;
-        background: #b3b3ba;
+        background: #0c4da2;
         z-index: -1;
     }
 
@@ -46,6 +46,10 @@
 .button-rounded:hover[b-o1f6pmm03b] {
         background-color: #a62b4c;
         color: whitesmoke;
+}
+
+.text-color[b-o1f6pmm03b] {
+    color: #f1ede2;
 }
 /* _content/QMS/Pages/QueueTicket.razor.rz.scp.css */
 .boxqueue[b-jt2cbumi7n] {

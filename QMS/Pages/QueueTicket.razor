@@ -13,8 +13,9 @@
 
 @if (queueDetails != null)
 {
-    <div class="boxqueue card p-3 justify-content-center align-items-center ">
-        <h4>หมายเลขคิว: @queueDetails.QueueNumber</h4>
+    <div class="boxqueue card p-3 justify-content-center align-items-center">
+        <h4>หมายเลขคิว</h4>
+        <h4>@queueDetails.QueueNumber</h4>
         <p>รายการที่เลือก: @queueDetails.QueueType</p>
         <p>วันที่และเวลา: @queueDetails.queue_date.ToString("dd/MM/yyyy HH:mm")</p>
         <p>* ถ้าเรียกคิวแล้วไม่อยู่ทำรายการ ขอสงวนสิทธิ์ในการข้ามคิว และต้องกดคิวใหม่เพื่อใช้บริการ *</p>
@@ -39,14 +40,14 @@ else
     public int QueueId { get; set; }
     private bool loading = true;
     private QueueModel queueDetails;
-    private string htmlData;
 
     // Dictionary สำหรับแปลงค่า QueueType
     private Dictionary<string, string> queueTypeMappings = new Dictionary<string, string>
     {
         { "Loan", "ขอกู้ รับชำระ จ่ายเงินกู้" },
         { "Finance", "เปิด-ปิดบัญชีฝากถอน" },
-        { "Shares", "สมัครสมาชิก ลาออก ซื้อ-ถอนหุ้น" }
+        { "Shares", "สมัครสมาชิก ลาออก ซื้อ-ถอนหุ้น" },
+        { "Other", "อื่นๆ"}
     };
 
 
@@ -87,9 +88,9 @@ else
 
     private async Task PrintData(QueueModel queue)
     {
-        htmlData = await GetPdfData(queue);
+        var htmlData = await GetPdfData(queue);
         await JSRuntime.InvokeVoidAsync("printPdf", htmlData);
-        Console.WriteLine(htmlData);  // ตรวจสอบว่าข้อมูล htmlData ถูกสร้างหรือไม่
+        Console.WriteLine(htmlData);  
 
     }
 
@@ -112,17 +113,16 @@ else
                 .boxqueue {{
                     text-align: justify;
                 }}
-                .hidden-content {{
-                    display: none;
-                }}
+
                 p {{
-                    font-size: 80%
+                    font-size: 80%;
+                    margin: 0; //ลดระยะห่างระหว่างบรรทัด
                 }}
             </style>
         </head>
         <body>
             <div class='boxqueue'>
-                <h3 style='text-align:start;'>หมายเลขคิว: </h3>
+                <h2 style='text-align:start;'>หมายเลขคิว </h2>
                 <h2 style='text-align:start;'>{queue.QueueNumber}</h2>
                 <p>รายการที่เลือก: {TransformQueueType(queue.QueueType)}</p>
                 <p>วันที่และเวลา: {queueDateFormatted}</p>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LNmr8gYBeani6lQ/kywXcb5u0ddrMI9R95tGvwz10aU=",
+  "Hash": "oy2eEeB2eS9aAHdUWKej/TMioXN4ql3Pr8oW61gpG3U=",
   "Source": "QMS",
   "BasePath": "_content/QMS",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "QMS\\wwwroot",
       "Source": "QMS",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "Pattern": "**"
     }
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "C:\\Users\\LOQ\\.nuget\\packages\\radzen.blazor\\5.2.2\\staticwebassets\\Radzen.Blazor.js"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\bundle\\QMS.styles.css",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\bundle\\QMS.styles.css",
       "SourceId": "QMS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/QMS",
       "RelativePath": "QMS.styles.css",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\bundle\\QMS.styles.css"
+      "OriginalItemSpec": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\bundle\\QMS.styles.css"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\QMS.bundle.scp.css",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\QMS.bundle.scp.css",
       "SourceId": "QMS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/QMS",
       "RelativePath": "QMS.bundle.scp.css",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\QMS.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\QMS.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\css\\site.css",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\favicon.png",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\js\\print.js",
+      "Identity": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\js\\print.js",
       "SourceId": "QMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\Gitเทียม\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\",
       "BasePath": "_content/QMS",
       "RelativePath": "js/print.js",
       "AssetKind": "All",
