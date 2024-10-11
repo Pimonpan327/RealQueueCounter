@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE27CAA5-165F-4E38-AE43-046442C2C853}|QMS.csproj|c:\\users\\loq\\desktop\\onlineandcounter\\queuever2.2blazor\\qms\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CE27CAA5-165F-4E38-AE43-046442C2C853}|QMS.csproj|solutionrelative:pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{CE27CAA5-165F-4E38-AE43-046442C2C853}|QMS.csproj|c:\\users\\loq\\desktop\\onlineandcounter\\queuever2.2blazor\\qms\\pages\\queueticket.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE27CAA5-165F-4E38-AE43-046442C2C853}|QMS.csproj|solutionrelative:pages\\queueticket.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE27CAA5-165F-4E38-AE43-046442C2C853}|QMS.csproj|c:\\users\\loq\\desktop\\onlineandcounter\\queuever2.2blazor\\qms\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE27CAA5-165F-4E38-AE43-046442C2C853}|QMS.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE27CAA5-165F-4E38-AE43-046442C2C853}|QMS.csproj|c:\\users\\loq\\desktop\\onlineandcounter\\queuever2.2blazor\\qms\\wwwroot\\js\\print.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CE27CAA5-165F-4E38-AE43-046442C2C853}|QMS.csproj|solutionrelative:wwwroot\\js\\print.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +42,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "print.js",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\js\\print.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\print.js",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\wwwroot\\js\\print.js",
+              "RelativeToolTip": "wwwroot\\js\\print.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-11T07:07:07.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.razor.css",
-              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\Pages\\Index.razor.css",
-              "RelativeDocumentMoniker": "Pages\\Index.razor.css",
-              "ToolTip": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\Pages\\Index.razor.css",
-              "RelativeToolTip": "Pages\\Index.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-11T06:12:28.465Z",
+              "Title": "QueueTicket.razor",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\Pages\\QueueTicket.razor",
+              "RelativeDocumentMoniker": "Pages\\QueueTicket.razor",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\Pages\\QueueTicket.razor",
+              "RelativeToolTip": "Pages\\QueueTicket.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T06:40:27.898Z",
               "EditorCaption": ""
             },
             {
@@ -57,7 +74,7 @@
               "RelativeDocumentMoniker": "Pages\\Index.razor",
               "ToolTip": "C:\\Users\\LOQ\\Desktop\\onlineandcounter\\QueueVer2.2Blazor\\QMS\\Pages\\Index.razor",
               "RelativeToolTip": "Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-10T03:10:51.959Z",
               "EditorCaption": ""
